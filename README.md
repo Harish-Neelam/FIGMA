@@ -13,3 +13,8 @@
 **MENTOR**: NEELA SANTOSH
 
 # DESCRIPTION OF TASK LIKE HOW YOU PERFORMED AND WHAT YOU HAVE DONE AND PASTE PICTURES OF OUTPUT
+
+## OUTPUT
+
+![figma landing page](https://github.com/user-attachments/assets/fab98a28-2d18-4c92-9f69-e80057c7b378)
+
